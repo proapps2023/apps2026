@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <ads banner="true" interstitial="true" openad="true" native="true" banner_tipo="normal" openad_modo="siempre"/>
+    <tabs audios="false" dailyaudio="false" dailyaudio_en="" dailyaudio_es="" home="false" categories="false" favorites="false" recent="false" order="" start="" home_icon="" categories_icon="" dailyaudio_icon="" audios_icon="" favorites_icon="" recent_icon="" dailyaudio_por_dia="1" audios_anuncio="true" dailyaudio_anuncio="true" audios_url="" dailyaudio_url=""/>
+    <imageofday enabled="false" url="" en="" es="" icon="photo" por_dia="1"/>
+    <gallery enabled="false" url="" en="" es="" icon="photo"/>
+    <imagehome enabled="false" en="" es="" icon="photo"/>
+    <imagecategories enabled="false" en="" es="" icon="grid"/>
+    <audiohome enabled="false" en="" es="" icon="headphones"/>
+    <audiocategories enabled="false" en="" es="" icon="grid"/>
+    <audioall enabled="false" en="" es="" icon="headphones"/>
+    <videoofday enabled="false" url="" en="" es="" icon="video" por_dia="1" share_es="" share_en=""/>
+    <videogallery enabled="false" url="" en="" es="" icon="video" share_es="" share_en=""/>
+    <videohome enabled="false" en="" es="" icon="video"/>
+    <videocategories enabled="false" en="" es="" icon="grid"/>
+    <asciiart enabled="false" en="" es="" icon="text"/>
+    <ruleta enabled="false" en="" es="" icon="wheel"/>
+    <aleatorio enabled="false" en="" es="" icon="shuffle" respuestas_es="Es cierto|No me importa|Claro que sí|Jamás lo haría|No lo había pensado|Obvio que sí|Me late|Ni loco|Se ve interesante|Tengo muchas dudas|Claro que no|Le entro con todo" respuestas_en="It&apos;s true|I don&apos;t care|Of course|I&apos;d never do it|Hadn&apos;t thought of it|Obviously yes|I&apos;m in|No way|Looks interesting|I have doubts|Of course not|I&apos;m all in" opciones_es="" opciones_en="" sorteo_es="" sorteo_en="" num_min="1" num_max="100"/>
+    <botella enabled="false" en="" es="" icon="bottle" players_es="Ana|Juan|Pedro|María" players_en="Ana|John|Peter|Mary" dares_es="Da un abrazo|Cuenta un chiste|Haz una imitación|Baila 10 segundos|Di un cumplido|Haz 5 sentadillas|Canta un coro|Habla con acento por 1 minuto" dares_en="Give a hug|Tell a joke|Do an impression|Dance for 10 seconds|Give a compliment|Do 5 squats|Sing a chorus|Talk with an accent for 1 minute"/>
+    <memoria enabled="false" en="" es="" icon="memory"/>
+    <piano enabled="false" en="" es="" icon="piano" url=""/>
+    <theremin enabled="false" en="" es="" icon="theremin"/>
+    <harp enabled="false" en="" es="" icon="harp"/>
+    <frecuencias enabled="false" en="" es="" icon="freq"/>
+    <musica432 enabled="false" en="" es="" icon="music"/>
+    <puzzle enabled="false" en="" es="" icon="puzzle"/>
+    <podcast enabled="false" image="" titulo_es="" titulo_en="" desc_es="" desc_en="" en="" es="" icon="" url=""/>
+    <noticias enabled="false" url="" en="" es="" icon=""/>
+    <citas enabled="false" url="" en="" es="" icon="citas"/>
+    <todo enabled="false" en="" es="" icon="checklist"/>
+    <sueno enabled="false" en="" es="" icon="" recordar="true"/>
+    <agua enabled="false" en="" es="" icon="" recordar="true"/>
+    <opinion enabled="false" en="" es="" icon="star" exclude="" sug_enabled="false" sug_url="" sug_titulo_es="" sug_titulo_en="" sug_texto_es="" sug_texto_en=""/>
+    <mimeta enabled="false" en="" es="" icon=""/>
+    <test enabled="false" url="" en="" es="" icon=""/>
+    <microhistorias enabled="false" url="" en="" es="" subtitle="Una historia cada {d} días. Cuando termina, empieza otra" subtitle_en="One story every {d} days. When it ends, another begins" icon=""/>
+    <menu estilo="arriba" posicion="abajo" top="barra" titulo="abajo"/>
+    <compartir es="" en=""/>
+    <titulos enabled="true"/>
+    <theme default="default"/>
+    <!-- ====== PANTALLAS DE BIENVENIDA ====== -->
+    <onbpantalla familia="portada" imagen="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" titulo_es="Bienvenido a la app" titulo_en="Welcome to the app" texto_es="Dedícale 20 segundos y verás todo lo que trae la app." texto_en="Take 20 seconds to see everything the app can do."/>
+    <onbpantalla familia="radio" imagen="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" titulo_es="Escucha la radio" titulo_en="Listen to the radio" texto_es="Escucha en vivo, guarda tus favoritas y vuelve a lo último." texto_en="Listen live, save your favorites and go back to what you played."/>
+    <onboarding enabled="false" en="" es="" intro_en="" intro_es="" pantallas="false" url="" debug="false" estilo="carrusel" gente="adulto" emoji_portada="1f44b" emoji_radio="1f3b6" emoji_dailyaudio="23f0" emoji_imagenes="1f4f8" emoji_videos="1f3ac" emoji_lectura="1f4da" emoji_personal="1f3af" emoji_instrumentos="1f3b8" emoji_juegos="1f3b2" emoji_opinion="2b50" emoji_web="1f30d"/>
+    <recordatorios enabled="true" dailyaudio="true" imageofday="true" videoofday="true" test="true" microhistorias="true" citas="false" noticias="true" podcast="true"/>
+    <webviews
+        web1="false" web1_en="" web1_es="" web1_icon=""
+        web2="false" web2_en="" web2_es="" web2_icon=""
+        web3="false" web3_en="" web3_es="" web3_icon=""
+        web4="false" web4_en="" web4_es="" web4_icon=""
+        web5="false" web5_en="" web5_es="" web5_icon=""
+        web6="false" web6_en="" web6_es="" web6_icon=""
+        web7="false" web7_en="" web7_es="" web7_icon=""
+        web8="false" web8_en="" web8_es="" web8_icon=""
+        web9="false" web9_en="" web9_es="" web9_icon=""
+        web10="false" web10_en="" web10_es="" web10_icon=""/>
+    <urls
+        web1=""
+        web2=""
+        web3=""
+        web4=""
+        web5=""
+        web6=""
+        web7=""
+        web8=""
+        web9=""
+        web10=""
+        privacy=""/>
+    <destacado tipo="radio" image="" en="" es="" emisora="Walf FM" audio="" categorias=""/>
+    <counters radio="4" tabs="4" galeria="4" ruleta="6" botella="6" mimeta="1" test="1" segundos="60" max_sesion="0"/>
+    <station
+        name="Walf FM"
+        image="https://i.imgur.com/2WXavqa.png"
+        link="https://10gb1.acangroup.org:8000/walffm"
+        featured="true"
+        enabled="true"/>
+    <station
+        name="Sud FM"
+        image="https://i.imgur.com/BBPmCIx.png"
+        link="https://stream-281.surfernetwork.com/rq40edfn3reuv"
+        enabled="true"/>
+    <station
+        name="Radio Futurs Medias"
+        image="https://i.imgur.com/BBPmCIx.png"
+        link="https://stream-283.surfernetwork.com/kuk0syz5puquv"
+        enabled="true"/>
+    <station
+        name="Zik FM"
+        image="https://i.imgur.com/BBPmCIx.png"
+        link="https://stream-289.surfernetwork.com/z97k8ry9sxquv"
+        enabled="true"/>
+    <station
+        name="iRADIO 90.3"
+        image="https://i.imgur.com/BBPmCIx.png"
+        link="https://stream-291.surfernetwork.com/ymw4tvxhq9duv"
+        enabled="true"/>
+    <station
+        name="Jiida Fm Bakel"
+        image="https://i.imgur.com/BBPmCIx.png"
+        link="https://stream-287.surfernetwork.com/5a0614rr9mruv"
+        enabled="true"/>
+    <station
+        name="Dakar Musique"
+        image="https://i.imgur.com/BBPmCIx.png"
+        link="https://listen.senemultimedia.net:8092/stream"
+        enabled="true"/>
+    <station
+        name="Lamp FM"
+        image="https://i.imgur.com/BBPmCIx.png"
+        link="https://stream-288.surfernetwork.com/q631qfx62neuv"
+        enabled="true"/>
+    <station
+        name="AlloDakar Radio TamTam"
+        image="https://i.imgur.com/BBPmCIx.png"
+        link="https://13683.live.streamtheworld.com/SP_R3644495.aac"
+        enabled="true"/>
+    <station
+        name="Radio Thiossane"
+        image="https://i.imgur.com/BBPmCIx.png"
+        link="https://listen.senemultimedia.net:8112/stream"
+        enabled="true"/>
+    <!-- ====== CATEGORÍAS DE AUDIO ====== -->
+    <audiocategory es="Mañana" en="" image=""/>
+    <audiocategory es="Tarde" en="" image=""/>
+    <audiocategory es="Noche" en="" image=""/>
+    <!-- ====== CATEGORÍAS DEL AUDIO DEL DÍA ====== -->
+    <dailycategory es="Chistes" en="Jokes"/>
+    <dailycategory es="Reflexiones" en="Reflections"/>
+    <dailycategory es="Pensamientos" en="Thoughts"/>
+    <dailycategory es="Cumpleaños" en="Birthdays"/>
+    <dailycategory es="Motivación" en="Motivation"/>
+    <dailycategory es="Frases" en="Quotes"/>
+    <dailycategory es="Dato curioso" en="Fun fact"/>
+</channel>
