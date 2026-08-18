@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <ads banner="true" interstitial="true" openad="true" native="true" banner_tipo="normal" openad_modo="siempre"/>
+    <tabs audios="false" dailyaudio="false" dailyaudio_en="" dailyaudio_es="" home="false" categories="false" favorites="false" recent="false" order="" start="" home_icon="" categories_icon="" dailyaudio_icon="" audios_icon="" favorites_icon="" recent_icon="" dailyaudio_por_dia="1" audios_anuncio="true" dailyaudio_anuncio="true" audios_url="" dailyaudio_url=""/>
+    <imageofday enabled="false" url="" en="" es="" icon="photo" por_dia="1"/>
+    <gallery enabled="false" url="" en="" es="" icon="photo"/>
+    <imagehome enabled="false" en="" es="" icon="photo"/>
+    <imagecategories enabled="false" en="" es="" icon="grid"/>
+    <audiohome enabled="false" en="" es="" icon="headphones"/>
+    <audiocategories enabled="false" en="" es="" icon="grid"/>
+    <audioall enabled="false" en="" es="" icon="headphones"/>
+    <videoofday enabled="false" url="" en="" es="" icon="video" por_dia="1" share_es="" share_en=""/>
+    <videogallery enabled="false" url="" en="" es="" icon="video" share_es="" share_en=""/>
+    <videohome enabled="false" en="" es="" icon="video"/>
+    <videocategories enabled="false" en="" es="" icon="grid"/>
+    <asciiart enabled="false" en="" es="" icon="text"/>
+    <ruleta enabled="false" en="" es="" icon="wheel"/>
+    <aleatorio enabled="false" en="" es="" icon="shuffle" respuestas_es="Es cierto|No me importa|Claro que sí|Jamás lo haría|No lo había pensado|Obvio que sí|Me late|Ni loco|Se ve interesante|Tengo muchas dudas|Claro que no|Le entro con todo" respuestas_en="It&apos;s true|I don&apos;t care|Of course|I&apos;d never do it|Hadn&apos;t thought of it|Obviously yes|I&apos;m in|No way|Looks interesting|I have doubts|Of course not|I&apos;m all in" opciones_es="" opciones_en="" sorteo_es="" sorteo_en="" num_min="1" num_max="100"/>
+    <botella enabled="false" en="" es="" icon="bottle" players_es="Ana|Juan|Pedro|María" players_en="Ana|John|Peter|Mary" dares_es="Da un abrazo|Cuenta un chiste|Haz una imitación|Baila 10 segundos|Di un cumplido|Haz 5 sentadillas|Canta un coro|Habla con acento por 1 minuto" dares_en="Give a hug|Tell a joke|Do an impression|Dance for 10 seconds|Give a compliment|Do 5 squats|Sing a chorus|Talk with an accent for 1 minute"/>
+    <memoria enabled="false" en="" es="" icon="memory"/>
+    <piano enabled="false" en="" es="" icon="piano" url=""/>
+    <theremin enabled="false" en="" es="" icon="theremin"/>
+    <harp enabled="false" en="" es="" icon="harp"/>
+    <frecuencias enabled="false" en="" es="" icon="freq"/>
+    <musica432 enabled="false" en="" es="" icon="music"/>
+    <puzzle enabled="false" en="" es="" icon="puzzle"/>
+    <podcast enabled="false" image="" titulo_es="" titulo_en="" desc_es="" desc_en="" en="" es="" icon="" url=""/>
+    <noticias enabled="false" url="" en="" es="" icon=""/>
+    <citas enabled="false" url="" en="" es="" icon="citas"/>
+    <todo enabled="false" en="" es="" icon="checklist"/>
+    <sueno enabled="false" en="" es="" icon="" recordar="true"/>
+    <agua enabled="false" en="" es="" icon="" recordar="true"/>
+    <opinion enabled="false" en="" es="" icon="star" exclude="" sug_enabled="false" sug_url="" sug_titulo_es="" sug_titulo_en="" sug_texto_es="" sug_texto_en=""/>
+    <mimeta enabled="false" en="" es="" icon=""/>
+    <test enabled="false" url="" en="" es="" icon=""/>
+    <microhistorias enabled="false" url="" en="" es="" subtitle="Una historia cada {d} días. Cuando termina, empieza otra" subtitle_en="One story every {d} days. When it ends, another begins" icon=""/>
+    <menu estilo="arriba" posicion="abajo" top="barra" titulo="abajo"/>
+    <compartir es="" en=""/>
+    <titulos enabled="true"/>
+    <theme default="default"/>
+    <!-- ====== PANTALLAS DE BIENVENIDA ====== -->
+    <onbpantalla familia="portada" imagen="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" titulo_es="Bienvenido a la app" titulo_en="Welcome to the app" texto_es="Dedícale 20 segundos y verás todo lo que trae la app." texto_en="Take 20 seconds to see everything the app can do."/>
+    <onbpantalla familia="radio" imagen="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" titulo_es="Escucha la radio" titulo_en="Listen to the radio" texto_es="Escucha en vivo, guarda tus favoritas y vuelve a lo último." texto_en="Listen live, save your favorites and go back to what you played."/>
+    <onboarding enabled="false" en="" es="" intro_en="" intro_es="" pantallas="false" url="" debug="false" estilo="carrusel" gente="adulto" emoji_portada="1f44b" emoji_radio="1f3b6" emoji_dailyaudio="23f0" emoji_imagenes="1f4f8" emoji_videos="1f3ac" emoji_lectura="1f4da" emoji_personal="1f3af" emoji_instrumentos="1f3b8" emoji_juegos="1f3b2" emoji_opinion="2b50" emoji_web="1f30d"/>
+    <recordatorios enabled="true" dailyaudio="true" imageofday="true" videoofday="true" test="true" microhistorias="true" citas="false" noticias="true" podcast="true"/>
+    <webviews
+        web1="false" web1_en="" web1_es="" web1_icon=""
+        web2="false" web2_en="" web2_es="" web2_icon=""
+        web3="false" web3_en="" web3_es="" web3_icon=""
+        web4="false" web4_en="" web4_es="" web4_icon=""
+        web5="false" web5_en="" web5_es="" web5_icon=""
+        web6="false" web6_en="" web6_es="" web6_icon=""
+        web7="false" web7_en="" web7_es="" web7_icon=""
+        web8="false" web8_en="" web8_es="" web8_icon=""
+        web9="false" web9_en="" web9_es="" web9_icon=""
+        web10="false" web10_en="" web10_es="" web10_icon=""/>
+    <urls
+        web1=""
+        web2=""
+        web3=""
+        web4=""
+        web5=""
+        web6=""
+        web7=""
+        web8=""
+        web9=""
+        web10=""
+        privacy=""/>
+    <destacado tipo="radio" image="" en="" es="" emisora="Walf FM" audio="" categorias=""/>
+    <counters radio="4" tabs="4" galeria="4" ruleta="6" botella="6" mimeta="1" test="1" segundos="60" max_sesion="0"/>
+    <station
+        name="Arauca, río y pueblo"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/20181121100039_8_arauca-rio-y-pueblo-reinaldo-armas.mp3"
+        enabled="true"/>
+    <station
+        name="Aunque me cueste la vida"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/20190805225545_8_aunque-me-cueste-la-vida---carlos-rico.mp3"
+        enabled="true"/>
+    <station
+        name="Te voy a olvidar dos veces"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/20191223074114_8_walter-silva-te-voy-a-olvidar-dos-veces.mp3"
+        enabled="true"/>
+    <station
+        name="Remembranzas de un coplero"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/20190805223419_8_remembranzas-de-un-coplero---carlos-rico.mp3"
+        enabled="true"/>
+    <station
+        name="Tres Lagrimas"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/20171229042008_8_01-tres-lagrimas-walter-silva.mp3"
+        enabled="true"/>
+    <station
+        name="Que nos entierren juntos"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/20170927234716_8_reynaldo-armas---que-nos-entierren-juntos.mp3"
+        enabled="true"/>
+    <station
+        name="La Propuesta"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/20170927233915_8_reynaldo-armas-la-propuesta.mp3"
+        enabled="true"/>
+    <station
+        name="La Renuncia"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/20170927233220_8_reynaldo-armas-la-renuncia.mp3"
+        enabled="true"/>
+    <station
+        name="Rey de Reyes"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/20170830151251_8_carlos-rico---rey-de-reyes.mp3"
+        enabled="true"/>
+    <station
+        name="Vaina buena y vaina mala"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/20170110170453_8_alcides-padilla-10-vaina-buena-y-vaina-mala.mp3"
+        enabled="true"/>
+    <station
+        name="La máscara del cantante"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/teo_galindez_la_mascara_del_cantante.mp3"
+        enabled="true"/>
+    <station
+        name="Sentir Patriota"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/rummy_olivo_-_sentir_patriota_01.mp3"
+        enabled="true"/>
+    <station
+        name="El peón enamorado"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/jorge_guerrero_7._el_peon_enamorado.mp3"
+        enabled="true"/>
+    <station
+        name="Mi calma y mi angustia"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link=":&gt; https://llanera.com/musicfiles/jorge_guerrero_5._mi_calma_y_mi_angustia.mp3"
+        enabled="true"/>
+    <station
+        name="Glosa glosa del amor"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/teo_galindez_glosa_glosa_del_amor_autor_jose_cheo_ramirez.mp3"
+        enabled="true"/>
+    <station
+        name="Flor de estero"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/teo_galindez-flor_del_estero.mp3"
+        enabled="true"/>
+    <station
+        name="El viaje"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/teo_galindez-el_viaje.mp3"
+        enabled="true"/>
+    <station
+        name="A lo largo de un camino"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/a_lo_largo_de_un_camino-reinaldo_armas.mp3"
+        enabled="true"/>
+    <station
+        name="A mis tres compadres"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/a_mis_tres_conpadres-reinaldo_armas.mp3"
+        enabled="true"/>
+    <station
+        name="El hijo del diablo"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/el_hijo_del_diablo_-_jesus_moreno.mp3"
+        enabled="true"/>
+    <station
+        name="Suerte en el amor"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/suerte_en_el_amor-_hector_hernandez_.mp3"
+        enabled="true"/>
+    <station
+        name="La Morrocoya Viajera"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/reynaldo_armas__la_morrocoya_viajera.mp3"
+        enabled="true"/>
+    <station
+        name="Por si no te vuelvo a ver"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/reynaldo_armas__por_si_no_te_vuelvo_a_ver.mp3"
+        enabled="true"/>
+    <station
+        name="Después de viejo gateando"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/despues_de_viejo_gateando_-_armando_martinez_.mp3"
+        enabled="true"/>
+    <station
+        name="El tropezón"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/carlos_guevara_._el_tropezon.mp3"
+        enabled="true"/>
+    <station
+        name="Vivencias de un peregrino"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/ali_cabello_vivencias_de_un_peregrino.mp3"
+        enabled="true"/>
+    <station
+        name="Somos el uno para el otro"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/ali_cabello_somos_uno_para_el_otro.mp3"
+        enabled="true"/>
+    <station
+        name="No te olvidare"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/oquendo_amores_-_jose_gregorio_oquendo_-_no_te_olvidare.mp3"
+        enabled="true"/>
+    <station
+        name="Es diferente"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/oquendo_amores_-_jose_gregorio_oquendo_-_es_diferente.mp3"
+        enabled="true"/>
+    <station
+        name="Amor no me ignores"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/jose_gregorio_oquendo__amor_no_me_ignores.mp3"
+        enabled="true"/>
+    <station
+        name="Viejo laurel sabanero"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/viejo_laurel_sabanero_-_cristobal_jimenez.mp3"
+        enabled="true"/>
+    <station
+        name="Olvídala corazón"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/olvidala_corazon_cristobal_jimenez.mp3"
+        enabled="true"/>
+    <station
+        name="Amanecer en el mantecal"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/amanecer_en_mantecal_-_cristobal_jimenez.mp3"
+        enabled="true"/>
+    <station
+        name="Décimas de amor y coleo"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/decimas_de_amor_al_coleo_-_armando_martinez.mp3"
+        enabled="true"/>
+    <station
+        name="Si Dios me lo permite"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/si_dios_me_lo_permite_-_armando_martinez.mp3"
+        enabled="true"/>
+    <station
+        name="Cuando amanezca"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/jorge_guerrero_cuando_amanezca.mp3"
+        enabled="true"/>
+    <station
+        name="Sin ella no vivo"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/sin_ella_no_vivo-teo_galindes.mp3"
+        enabled="true"/>
+    <station
+        name="Para toda la vida"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/para_toda_la_vida__teo_galindez.mp3"
+        enabled="true"/>
+    <station
+        name="Dame tu amor"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/dame_tu_amor-teo_galindes.mp3"
+        enabled="true"/>
+    <station
+        name="Super criollisimas"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/super_criollisimas_-_luis_silva.mp3"
+        enabled="true"/>
+    <station
+        name="Quisiera ser"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/quisiera_ser-luis_silva.mp3"
+        enabled="true"/>
+    <station
+        name="Quiero enamórarme de ti"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/quiero_enamorarme_de_ti-luis_silva.mp3"
+        enabled="true"/>
+    <station
+        name="Por que sera"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/por_que_sera-luis_silva.mp3"
+        enabled="true"/>
+    <station
+        name="Reynaldo Armas en Concierto"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://llanera.com/musicfiles/reynaldoenconcierto.mp3"
+        enabled="true"/>
+    <station
+        name="Musica Llanera Radio"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="http://192.99.203.81:8704/stream"
+        enabled="true"/>
+    <station
+        name="LLANERA MIX"
+        image="https://i.imgur.com/aHFtHwc.png"
+        link="https://stream-175.surfernetwork.com/2dhzur08dm0uv"
+        enabled="true"/>
+    <!-- ====== CATEGORÍAS DE AUDIO ====== -->
+    <audiocategory es="Mañana" en="" image=""/>
+    <audiocategory es="Tarde" en="" image=""/>
+    <audiocategory es="Noche" en="" image=""/>
+    <!-- ====== CATEGORÍAS DEL AUDIO DEL DÍA ====== -->
+    <dailycategory es="Chistes" en="Jokes"/>
+    <dailycategory es="Reflexiones" en="Reflections"/>
+    <dailycategory es="Pensamientos" en="Thoughts"/>
+    <dailycategory es="Cumpleaños" en="Birthdays"/>
+    <dailycategory es="Motivación" en="Motivation"/>
+    <dailycategory es="Frases" en="Quotes"/>
+    <dailycategory es="Dato curioso" en="Fun fact"/>
+</channel>
