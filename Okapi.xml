@@ -71,7 +71,7 @@
     <station
         name="Okapi"
         image="https://i.imgur.com/ZCZrvDm.png"
-        link="http://rs1.radiostreamer.com:8000/listen.pls"
+        link="https://servidor30-5.brlogic.com:7090/live"
         featured="true"
         enabled="true"/>
     <station
